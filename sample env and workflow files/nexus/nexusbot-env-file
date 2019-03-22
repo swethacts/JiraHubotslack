@@ -1,0 +1,14 @@
+HUBOT_NAME=nexusbot
+EXPRESS_PORT=8787
+MY_POD_IP=x.x.x.x
+HUBOT_SLACK_TOKEN=xoxb-xxxx-xxxx-xxxx
+NEXUS_URL=http://x.x.x.x:8081/nexus
+NEXUS_USER_ID=xxxx
+NEXUS_PASSWORD=xxxx
+MONITOR_INTERVAL=1000
+MONITOR_RETENSION=1
+MONGO_DB_URL=mongodb://xx.xx.xx.xxxxxx
+MONGO_COUNTER=counters
+MONGO_TICKETIDGEN=ticketIdGenerator
+MONGO_COLL=ticketgenerator
+MONGO_DB_NAME=hubot

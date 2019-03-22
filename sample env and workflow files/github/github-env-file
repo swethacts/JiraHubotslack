@@ -1,0 +1,14 @@
+HUBOT_NAME=githubbot
+EXPRESS_PORT=8787
+MY_POD_IP=x.x.x.x
+HUBOT_SLACK_TOKEN=xoxb-xxxx-xxxx-xxxx
+HUBOT_GITHUB_API=https://api.github.com
+HUBOT_GITHUB_USER=xxxx
+HUBOT_GITHUB_TOKEN=<<xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx>>
+MONITOR_INTERVAL=1000
+MONITOR_RETENSION=1
+MONGO_DB_URL=mongodb://xx.xx.xx.xxxxxx
+MONGO_COUNTER=counters
+MONGO_TICKETIDGEN=ticketIdGenerator
+MONGO_COLL=ticketgenerator
+MONGO_DB_NAME=hubot
